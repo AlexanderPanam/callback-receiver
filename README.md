@@ -1,0 +1,1 @@
+Internal tool for receiving callbacks from MS Graph API
