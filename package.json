@@ -2,6 +2,10 @@
   "name": "callback-receiver",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/AlexanderPanam/callback-receiver"
+  },
   "main": "index.js",
   "scripts": {
     "start": "tsc --build && node ./dist/index.js",
